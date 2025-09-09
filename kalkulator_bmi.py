@@ -26,7 +26,7 @@ print(f"Berat badan ideal anda adalah dalam rentang "
 if bmi < 18.5:
         kategori = "Kurus (Underweight)"
 elif 18.5 <= bmi < 25:
-        kategori = "Normal"
+        kategori = "Normal" 
 elif 25 <= bmi < 30:
         kategori = "Gemuk (Overweight)"
 else:
